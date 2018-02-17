@@ -1,0 +1,2706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>50年內可能發生地震的孕震構造</name>
+    <Style id="line-880E4F-2938-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-880E4F-2938-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-880E4F-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-2744-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>2.744</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-2744-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.116</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-2744">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-2744-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-2744-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-2938-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-2938-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-C2185B-3325-normal">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-C2185B-3325-highlight">
+      <LineStyle>
+        <color>ff5b18c2</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-C2185B-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-C2185B-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-C2185B-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F57C00-2744-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>2.744</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-2744-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>4.116</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-2744">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-2744-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-2744-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F57C00-2938-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-2938-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F57C00-3131-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-3131-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-3131-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FBC02D-2938-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FBC02D-2938-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FBC02D-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FBC02D-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FBC02D-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FBC02D-3131-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FBC02D-3131-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FBC02D-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FBC02D-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FBC02D-3131-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FBC02D-3325-normal">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FBC02D-3325-highlight">
+      <LineStyle>
+        <color>ff2dc0fb</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FBC02D-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FBC02D-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FBC02D-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFFF8D-2744-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>2.744</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFFF8D-2744-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>4.116</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFFF8D-2744">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFFF8D-2744-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFFF8D-2744-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFFF8D-2938-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFFF8D-2938-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFFF8D-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFFF8D-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFFF8D-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFFF8D-3131-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFFF8D-3131-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFFF8D-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFFF8D-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFFF8D-3131-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFFF8D-3325-normal">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFFF8D-3325-highlight">
+      <LineStyle>
+        <color>ff8dffff</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFFF8D-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFFF8D-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFFF8D-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>山腳斷層
+</name>
+      <description><![CDATA[說明: <br>name: 山腳斷層<br>Mw: 規模：7.0<br>RupturePro: 發生機率：7%<br>id: 1]]></description>
+      <styleUrl>#line-FFFF8D-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>山腳斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：7%</value>
+        </Data>
+        <Data name="id">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.418497,24.992482,0
+          121.41528,25.000872,0
+          121.412056,25.007501,0
+          121.412,25.013698,0
+          121.41078,25.018772,0
+          121.412512,25.028274,0
+          121.4159,25.030625,0
+          121.421285,25.040969,0
+          121.426662,25.048417,0
+          121.431452,25.062964,0
+          121.431898,25.070141,0
+          121.433529,25.077422,0
+          121.441005,25.089038,0
+          121.445826,25.0938,0
+          121.45101,25.104638,0
+          121.459696,25.113379,0
+          121.463026,25.116582,0
+          121.466095,25.125569,0
+          121.468721,25.12916,0
+          121.477995,25.135942,0
+          121.488093,25.140382,0
+          121.493058,25.146149,0
+          121.501508,25.149213,0
+          121.516231,25.158245,0
+          121.52483,25.165755,0
+          121.529588,25.166366,0
+          121.537124,25.176232,0
+          121.5487,25.181834,0
+          121.554497,25.18661,0
+          121.563578,25.195487,0
+          121.569806,25.199028,0
+          121.57202,25.198011,0
+          121.573516,25.203475,0
+          121.581643,25.206573,0
+          121.58982,25.208929,0
+          121.591511,25.211727,0
+          121.599582,25.218701,0
+          121.6081,25.22547,0
+          121.6128,25.227685,0
+          121.619295,25.23172,0
+          121.627577,25.235544,0
+          121.632527,25.242834,0
+          121.652279,25.248451,0
+          121.671217,25.253382,0
+          121.67912,25.257645,0
+          121.691394,25.268337,0
+          121.699347,25.280839,0
+          121.715918,25.284343,0
+          121.727774,25.290017,0
+          121.732336,25.305759,0
+          121.73762,25.31051,0
+          121.747484,25.312251,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>雙連坡構造
+</name>
+      <description><![CDATA[說明: <br>name: 雙連坡構造<br>Mw: 規模：6.2<br>RupturePro: 發生機率：2%<br>id: 2]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>雙連坡構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.2</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：2%</value>
+        </Data>
+        <Data name="id">
+          <value>2</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.108787,24.919278,0
+          121.116282,24.925872,0
+          121.121298,24.929867,0
+          121.147132,24.949152,0
+          121.153278,24.953487,0
+          121.16406,24.957131,0
+          121.175592,24.958832,0
+          121.183238,24.95928,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>楊梅構造
+</name>
+      <description><![CDATA[說明: <br>name: 楊梅構造<br>Mw: 規模：6.0<br>RupturePro: 發生機率：3%<br>id: 3]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>楊梅構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：3%</value>
+        </Data>
+        <Data name="id">
+          <value>3</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.069461,24.889769,0
+          121.078009,24.891515,0
+          121.090962,24.892107,0
+          121.098533,24.892379,0
+          121.111372,24.896772,0
+          121.119937,24.900171,0
+          121.127002,24.905392,0
+          121.134397,24.911888,0
+          121.139663,24.915691,0
+          121.150472,24.916747,0
+          121.157821,24.916435,0
+          121.165339,24.917036,0
+          121.172024,24.919009,0
+          121.178708,24.920981,0
+          121.190744,24.926146,0
+          121.197179,24.928346,0
+          121.203614,24.930546,0
+          121.211469,24.931906,0
+          121.216146,24.9319,0
+          121.220824,24.931893,0
+          121.225489,24.924879,0
+          121.235343,24.923645,0
+          121.245701,24.924085,0
+          121.253504,24.923595,0
+          121.262002,24.921467,0
+          121.268224,24.920137,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>湖口斷層
+</name>
+      <description><![CDATA[說明: <br>name: 湖口斷層<br>Mw: 規模：6.8<br>RupturePro: 發生機率：5%<br>id: 4]]></description>
+      <styleUrl>#line-FFFF8D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>湖口斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.8</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：5%</value>
+        </Data>
+        <Data name="id">
+          <value>4</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.034671,24.859061,0
+          121.039906,24.869668,0
+          121.047474,24.876904,0
+          121.05613,24.875167,0
+          121.06368,24.876066,0
+          121.073196,24.881936,0
+          121.080255,24.88474,0
+          121.09123,24.883891,0
+          121.093169,24.885413,0
+          121.099106,24.890045,0
+          121.105286,24.892722,0
+          121.114558,24.893575,0
+          121.12435,24.891179,0
+          121.13384,24.891476,0
+          121.140103,24.891622,0
+          121.151153,24.897951,0
+          121.159659,24.903332,0
+          121.164766,24.905355,0
+          121.178052,24.905646,0
+          121.190898,24.906952,0
+          121.19758,24.9074,0
+          121.205763,24.906475,0
+          121.213576,24.907847,0
+          121.221179,24.906755,0
+          121.230548,24.904536,0
+          121.235314,24.905122,0
+          121.244342,24.903675,0
+          121.252692,24.903508,0
+          121.26262,24.902217,0
+          121.267204,24.901848,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>鳳山溪走向滑移構造
+</name>
+      <description><![CDATA[說明: <br>name: 鳳山溪走向滑移構造<br>Mw: 規模：6.7<br>RupturePro: 發生機率：17%<br>id: 5]]></description>
+      <styleUrl>#line-FBC02D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>鳳山溪走向滑移構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.7</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：17%</value>
+        </Data>
+        <Data name="id">
+          <value>5</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.961245,24.895397,0
+          120.970833,24.890836,0
+          120.980525,24.888366,0
+          120.988341,24.886846,0
+          120.999804,24.886372,0
+          121.014666,24.886129,0
+          121.021934,24.88528,0
+          121.037156,24.8787,0
+          121.047474,24.876904,0
+          121.063798,24.869458,0
+          121.085776,24.860702,0
+          121.093795,24.857228,0
+          121.108687,24.850469,0
+          121.11556,24.847185,0
+          121.126287,24.844895,0
+          121.144828,24.843737,0
+          121.149411,24.842782,0
+          121.162381,24.83621,0
+          121.172271,24.831969,0
+          121.186324,24.826107,0
+          121.19257,24.82415,0
+          121.198816,24.822193,0
+          121.208189,24.822086,0
+          121.214228,24.820841,0
+          121.220414,24.820262,0
+          121.227388,24.818256,0
+          121.236653,24.816245,0
+          121.244985,24.816517,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>新竹斷層
+</name>
+      <description><![CDATA[說明: <br>name: 新竹斷層<br>Mw: 規模：6.4<br>RupturePro: 發生機率：4%<br>id: 6]]></description>
+      <styleUrl>#line-FFFF8D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>新竹斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.4</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：4%</value>
+        </Data>
+        <Data name="id">
+          <value>6</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.928366,24.788357,0
+          120.939419,24.790664,0
+          120.948915,24.791883,0
+          120.956201,24.794315,0
+          120.970498,24.79804,0
+          120.977007,24.801569,0
+          120.982389,24.802141,0
+          120.99378,24.804542,0
+          120.999662,24.80397,0
+          121.014182,24.799057,0
+          121.026689,24.798654,0
+          121.031376,24.79874,0
+          121.036727,24.797796,0
+          121.048224,24.794317,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>新城斷層
+</name>
+      <description><![CDATA[說明: <br>name: 新城斷層<br>Mw: 規模：6.6<br>RupturePro: 發生機率：9%<br>id: 7]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>新城斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：9%</value>
+        </Data>
+        <Data name="id">
+          <value>7</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.9609,24.745536,0
+          120.970162,24.752762,0
+          120.976198,24.758942,0
+          120.983277,24.761034,0
+          120.991813,24.763506,0
+          121.010864,24.763886,0
+          121.021275,24.767877,0
+          121.027001,24.771963,0
+          121.036718,24.774878,0
+          121.041996,24.779089,0
+          121.046995,24.782984,0
+          121.054909,24.785928,0
+          121.057721,24.787258,0
+          121.06449,24.789061,0
+          121.070113,24.790104,0
+          121.074694,24.790102,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>新竹前緣構造</name>
+      <description><![CDATA[說明: <br>name: 新竹前緣構造<br>Mw: 規模：6.4<br>RupturePro: 發生機率：15%<br>id: 8]]></description>
+      <styleUrl>#line-FBC02D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>新竹前緣構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.4</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：15%</value>
+        </Data>
+        <Data name="id">
+          <value>8</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.866397,24.716226,0
+          120.867446,24.721199,0
+          120.873352,24.727406,0
+          120.877448,24.729441,0
+          120.882127,24.733402,0
+          120.89149,24.737526,0
+          120.906223,24.744467,0
+          120.907519,24.749215,0
+          120.91219,24.755044,0
+          120.913987,24.758508,0
+          120.915203,24.764421,0
+          120.917426,24.770134,0
+          120.918387,24.775134,0
+          120.919883,24.782847,0
+          120.924575,24.78542,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>斗煥坪構造
+</name>
+      <description><![CDATA[說明: <br>name: 斗煥坪構造<br>Mw: 規模：6.5<br>RupturePro: 發生機率：1%<br>id: 9]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>斗煥坪構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.5</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：1%</value>
+        </Data>
+        <Data name="id">
+          <value>9</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.794862,24.661961,0
+          120.811718,24.665567,0
+          120.835638,24.665953,0
+          120.860736,24.664187,0
+          120.874538,24.66474,0
+          120.887331,24.666105,0
+          120.902931,24.669609,0
+          120.919858,24.67411,0
+          120.931639,24.675114,0
+          120.93788,24.676685,0
+          120.94153,24.680287,0
+          120.956732,24.681245,0
+          120.969621,24.680012,0
+          120.987999,24.679763,0
+          120.99757,24.679811,0
+          121.007557,24.681712,0
+          121.013019,24.683137,0
+          121.025323,24.683986,0
+          121.035075,24.684084,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>苗栗前緣構造
+</name>
+      <description><![CDATA[說明: <br>name: 苗栗前緣構造<br>Mw: 規模：6.7<br>RupturePro: 發生機率：15%<br>id: 10]]></description>
+      <styleUrl>#line-FBC02D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>苗栗前緣構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.7</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：15%</value>
+        </Data>
+        <Data name="id">
+          <value>10</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.656295,24.443901,0
+          120.657004,24.448162,0
+          120.662989,24.458214,0
+          120.663442,24.462005,0
+          120.66612,24.473511,0
+          120.672606,24.481353,0
+          120.679387,24.491899,0
+          120.687763,24.505075,0
+          120.689729,24.508583,0
+          120.69211,24.51983,0
+          120.693579,24.529837,0
+          120.696029,24.544905,0
+          120.69914,24.551398,0
+          120.702359,24.554078,0
+          120.706737,24.55655,0
+          120.707582,24.561394,0
+          120.711346,24.569428,0
+          120.711339,24.574851,0
+          120.716601,24.581686,0
+          120.715676,24.586247,0
+          120.716226,24.589229,0
+          120.720517,24.594713,0
+          120.722052,24.598725,0
+          120.730345,24.605906,0
+          120.737048,24.607399,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>銅鑼構造</name>
+      <description><![CDATA[說明: <br>name: 銅鑼構造<br>Mw: 規模：6.0<br>RupturePro: 發生機率：9%<br>id: 11]]></description>
+      <styleUrl>#line-FFFF8D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>銅鑼構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：9%</value>
+        </Data>
+        <Data name="id">
+          <value>11</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.76107,24.40303,0
+          120.766147,24.408628,0
+          120.770946,24.416304,0
+          120.771516,24.425958,0
+          120.773703,24.437507,0
+          120.775585,24.448934,0
+          120.776696,24.464585,0
+          120.776683,24.472208,0
+          120.776669,24.479831,0
+          120.775036,24.487697,0
+          120.774681,24.494825,0
+          120.773876,24.50016,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>東部苗栗構造
+</name>
+      <description><![CDATA[說明: <br>name: 東部苗栗構造<br>Mw: 規模：6.2<br>RupturePro: 發生機率：11%<br>id: 12]]></description>
+      <styleUrl>#line-FBC02D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>東部苗栗構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.2</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：11%</value>
+        </Data>
+        <Data name="id">
+          <value>12</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.832009,24.466039,0
+          120.8313,24.471249,0
+          120.830592,24.47646,0
+          120.830586,24.481103,0
+          120.832735,24.484032,0
+          120.832565,24.489108,0
+          120.832396,24.494184,0
+          120.835487,24.500895,0
+          120.837084,24.502808,0
+          120.837534,24.508049,0
+          120.840263,24.517912,0
+          120.839762,24.526338,0
+          120.840588,24.529601,0
+          120.840162,24.533286,0
+          120.839911,24.537369,0
+          120.841452,24.540432,0
+          120.84042,24.54823,0
+          120.840999,24.555248,0
+          120.841775,24.561505,0
+          120.843283,24.565541,0
+          120.844742,24.574778,0
+          120.846743,24.583745,0
+          120.847814,24.589852,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>獅潭斷層
+</name>
+      <description><![CDATA[說明: <br>name: 獅潭斷層<br>Mw: 規模：6.6<br>RupturePro: 發生機率：<1%<br>id: 13]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>獅潭斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value><![CDATA[發生機率：<1%]]></value>
+        </Data>
+        <Data name="id">
+          <value>13</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.855308,24.382887,0
+          120.867807,24.402488,0
+          120.879779,24.433077,0
+          120.885506,24.447415,0
+          120.893845,24.46271,0
+          120.904139,24.480569,0
+          120.911366,24.494915,0
+          120.914668,24.503364,0
+          120.922415,24.521668,0
+          120.929677,24.540885,0
+          120.93678,24.553684,0
+          120.941528,24.563814,0
+          120.947222,24.57082,0
+          120.957347,24.58269,0
+          120.96226,24.591389,0
+          120.968111,24.598844,0
+          120.973643,24.608692,0
+          120.97672,24.614766,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>三義斷層
+</name>
+      <description><![CDATA[說明: <br>name: 三義斷層<br>Mw: 規模：7.0<br>RupturePro: 發生機率：6%<br>id: 14]]></description>
+      <styleUrl>#line-FFFF8D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>三義斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：6%</value>
+        </Data>
+        <Data name="id">
+          <value>14</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.730218,24.234614,0
+          120.730856,24.248482,0
+          120.73404,24.262595,0
+          120.734184,24.26747,0
+          120.735362,24.269051,0
+          120.735402,24.27366,0
+          120.734589,24.281601,0
+          120.734517,24.284348,0
+          120.733879,24.29008,0
+          120.739116,24.296938,0
+          120.738942,24.299729,0
+          120.736944,24.301839,0
+          120.735576,24.310425,0
+          120.737112,24.313254,0
+          120.740998,24.317452,0
+          120.73878,24.324951,0
+          120.738247,24.333699,0
+          120.736817,24.34416,0
+          120.736776,24.35547,0
+          120.74032,24.362589,0
+          120.745485,24.368228,0
+          120.752006,24.374963,0
+          120.753793,24.384323,0
+          120.763217,24.400853,0
+          120.765802,24.403228,0
+          120.770715,24.40401,0
+          120.77844,24.408424,0
+          120.784864,24.407804,0
+          120.789052,24.407079,0
+          120.792338,24.40297,0
+          120.802973,24.399165,0
+          120.809243,24.397304,0
+          120.817265,24.396187,0
+          120.82392,24.396644,0
+          120.830575,24.397102,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>屯子腳斷層
+</name>
+      <description><![CDATA[說明: <br>name: 屯子腳斷層<br>Mw: 規模：6.6<br>RupturePro: 發生機率：<1%<br>id: 15]]></description>
+      <styleUrl>#line-FFFF8D-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>屯子腳斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value><![CDATA[發生機率：<1%]]></value>
+        </Data>
+        <Data name="id">
+          <value>15</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.613527,24.26503,0
+          120.654831,24.279213,0
+          120.692302,24.29379,0
+          120.721761,24.30762,0
+          120.740998,24.317452,0
+          120.765115,24.335659,0
+          120.772173,24.339994,0
+          120.802545,24.346356,0
+          120.829906,24.360126,0
+          120.83512,24.361924,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>彰化斷層
+</name>
+      <description><![CDATA[說明: <br>name: 彰化斷層<br>Mw: 規模：7.6<br>RupturePro: 發生機率：6%<br>id: 16]]></description>
+      <styleUrl>#line-FFFF8D-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>彰化斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：6%</value>
+        </Data>
+        <Data name="id">
+          <value>16</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.645529,24.365301,0
+          120.634838,24.355945,0
+          120.629199,24.345789,0
+          120.62435,24.338068,0
+          120.615776,24.332773,0
+          120.612429,24.326841,0
+          120.608004,24.305072,0
+          120.600937,24.299753,0
+          120.590007,24.284902,0
+          120.580247,24.273732,0
+          120.572394,24.257266,0
+          120.563354,24.243717,0
+          120.559269,24.230831,0
+          120.555086,24.221625,0
+          120.548584,24.205853,0
+          120.548618,24.196224,0
+          120.54983,24.186815,0
+          120.543747,24.172841,0
+          120.54534,24.15586,0
+          120.549757,24.140511,0
+          120.550765,24.121905,0
+          120.548602,24.099936,0
+          120.548016,24.074339,0
+          120.545134,24.052658,0
+          120.549416,24.031036,0
+          120.554594,24.022916,0
+          120.581411,24.006659,0
+          120.59967,23.977144,0
+          120.606447,23.96691,0
+          120.622051,23.914983,0
+          120.614272,23.887228,0
+          120.608494,23.859175,0
+          120.606758,23.844172,0
+          120.60679,23.833302,0
+          120.617475,23.820906,0
+          120.635439,23.804823,0
+          120.647126,23.794375,0
+          120.659569,23.773351,0
+          120.662151,23.767852,0
+          120.663782,23.75404,0
+          120.669244,23.73442,0
+          120.669656,23.725581,0
+          120.665155,23.709803,0
+          120.66283,23.705617,0
+          120.661186,23.689008,0
+          120.666028,23.672295,0
+          120.666052,23.662858,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>車籠埔斷層
+</name>
+      <description><![CDATA[說明: <br>name: 車籠埔斷層<br>Mw: 規模：7.6<br>RupturePro: 發生機率：<1%<br>id: 17]]></description>
+      <styleUrl>#line-FFFF8D-2744</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>車籠埔斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value><![CDATA[發生機率：<1%]]></value>
+        </Data>
+        <Data name="id">
+          <value>17</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.645089,23.639195,0
+          120.66185,23.657723,0
+          120.66958,23.664608,0
+          120.678798,23.669238,0
+          120.684574,23.674149,0
+          120.689729,23.677617,0
+          120.696162,23.684969,0
+          120.701643,23.699022,0
+          120.70394,23.710712,0
+          120.703782,23.716212,0
+          120.698653,23.728814,0
+          120.698354,23.740456,0
+          120.702661,23.755276,0
+          120.710682,23.762345,0
+          120.707577,23.77218,0
+          120.709672,23.778455,0
+          120.711247,23.787249,0
+          120.708321,23.792206,0
+          120.71181,23.796236,0
+          120.713547,23.801738,0
+          120.706978,23.806285,0
+          120.707404,23.811248,0
+          120.710598,23.817021,0
+          120.715088,23.824587,0
+          120.715599,23.8285,0
+          120.708151,23.835591,0
+          120.70384,23.840076,0
+          120.703382,23.84906,0
+          120.706272,23.860733,0
+          120.707481,23.873066,0
+          120.712346,23.875942,0
+          120.714395,23.880597,0
+          120.712475,23.891591,0
+          120.70984,23.895877,0
+          120.706623,23.899358,0
+          120.703695,23.90965,0
+          120.703614,23.914267,0
+          120.709913,23.928198,0
+          120.704902,23.935992,0
+          120.703606,23.942938,0
+          120.700358,23.947827,0
+          120.697318,23.948827,0
+          120.686639,23.959802,0
+          120.688939,23.967201,0
+          120.692276,23.971819,0
+          120.690399,23.978574,0
+          120.689025,23.999101,0
+          120.695327,24.005407,0
+          120.698488,24.010117,0
+          120.698739,24.014187,0
+          120.697909,24.022663,0
+          120.699612,24.029297,0
+          120.696422,24.034572,0
+          120.691554,24.04068,0
+          120.691397,24.044971,0
+          120.693431,24.049669,0
+          120.699847,24.053571,0
+          120.699973,24.062288,0
+          120.703607,24.069939,0
+          120.715,24.071731,0
+          120.72182,24.07679,0
+          120.724314,24.085534,0
+          120.736826,24.08712,0
+          120.732035,24.095874,0
+          120.7342,24.10835,0
+          120.739442,24.117613,0
+          120.735622,24.127798,0
+          120.734572,24.140671,0
+          120.738936,24.15087,0
+          120.735106,24.165481,0
+          120.729402,24.176974,0
+          120.722123,24.189867,0
+          120.724813,24.201358,0
+          120.726028,24.208379,0
+          120.724728,24.214382,0
+          120.728912,24.222133,0
+          120.730218,24.234614,0
+          120.737946,24.244832,0
+          120.744816,24.257201,0
+          120.756987,24.274406,0
+          120.759628,24.281078,0
+          120.765758,24.285172,0
+          120.76992,24.283386,0
+          120.777722,24.284259,0
+          120.78893,24.284418,0
+          120.796739,24.285333,0
+          120.803217,24.287578,0
+          120.820367,24.296621,0
+          120.826654,24.302326,0
+          120.830165,24.308457,0
+          120.833826,24.32,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>大茅埔-雙冬斷層</name>
+      <description><![CDATA[說明: <br>name: 大茅埔-雙冬斷層<br>Mw: 規模：7.0<br>RupturePro: 發生機率：7%<br>id: 18]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>大茅埔-雙冬斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：7%</value>
+        </Data>
+        <Data name="id">
+          <value>18</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.934579,24.280645,0
+          120.931205,24.27822,0
+          120.929206,24.277082,0
+          120.928857,24.276849,0
+          120.928114,24.276495,0
+          120.926116,24.275369,0
+          120.923989,24.274497,0
+          120.91701,24.271911,0
+          120.914021,24.270454,0
+          120.911471,24.269318,0
+          120.909791,24.268391,0
+          120.908073,24.267481,0
+          120.904636,24.266024,0
+          120.902117,24.2652,0
+          120.897961,24.263596,0
+          120.895648,24.2622,0
+          120.89393,24.26129,0
+          120.892741,24.260441,0
+          120.89175,24.259834,0
+          120.890165,24.258742,0
+          120.888183,24.257165,0
+          120.887045,24.256468,0
+          120.882576,24.253499,0
+          120.881445,24.252069,0
+          120.87953,24.25031,0
+          120.877449,24.248496,0
+          120.876625,24.246611,0
+          120.876031,24.245035,0
+          120.874875,24.243367,0
+          120.873457,24.241214,0
+          120.872071,24.239516,0
+          120.87092,24.237846,0
+          120.868466,24.231736,0
+          120.867587,24.229513,0
+          120.867532,24.228478,0
+          120.866259,24.225546,0
+          120.864889,24.2236,0
+          120.862706,24.220721,0
+          120.860008,24.217434,0
+          120.8567,24.214049,0
+          120.854039,24.210807,0
+          120.851336,24.206116,0
+          120.849874,24.203612,0
+          120.848313,24.201126,0
+          120.845286,24.196581,0
+          120.842326,24.190962,0
+          120.841,24.189978,0
+          120.840977,24.189958,0
+          120.837677,24.187652,0
+          120.83563,24.186498,0
+          120.833715,24.185647,0
+          120.831866,24.184797,0
+          120.829753,24.184007,0
+          120.828168,24.183399,0
+          120.826523,24.182642,0
+          120.82632,24.182548,0
+          120.823435,24.181003,0
+          120.821081,24.179643,0
+          120.818728,24.178172,0
+          120.816857,24.177034,0
+          120.814967,24.175565,0
+          120.813449,24.174109,0
+          120.812065,24.172289,0
+          120.811011,24.170106,0
+          120.810589,24.168439,0
+          120.810422,24.16659,0
+          120.810426,24.163681,0
+          120.810363,24.161439,0
+          120.810301,24.158651,0
+          120.810238,24.157014,0
+          120.809975,24.155741,0
+          120.809514,24.15465,0
+          120.808922,24.153619,0
+          120.807866,24.152527,0
+          120.806679,24.151495,0
+          120.805822,24.150524,0
+          120.805163,24.149614,0
+          120.805129,24.149557,0
+          120.804841,24.146482,0
+          120.800285,24.13347,0
+          120.798544,24.129897,0
+          120.798022,24.126646,0
+          120.797913,24.125791,0
+          120.79753,24.1233,0
+          120.797545,24.122029,0
+          120.797283,24.120211,0
+          120.797291,24.118841,0
+          120.797622,24.117408,0
+          120.797451,24.115145,0
+          120.79757,24.114787,0
+          120.798268,24.111997,0
+          120.798474,24.111242,0
+          120.799689,24.109547,0
+          120.801254,24.107059,0
+          120.802516,24.10476,0
+          120.803752,24.10265,0
+          120.804166,24.101142,0
+          120.804532,24.099652,0
+          120.804834,24.096984,0
+          120.804857,24.095542,0
+          120.805087,24.092807,0
+          120.805645,24.09095,0
+          120.80591,24.088848,0
+          120.806323,24.086963,0
+          120.806938,24.084418,0
+          120.807197,24.08339,0
+          120.807218,24.083324,0
+          120.807316,24.082287,0
+          120.807811,24.081005,0
+          120.808003,24.080185,0
+          120.80858,24.078913,0
+          120.808802,24.077838,0
+          120.809014,24.077112,0
+          120.808968,24.077009,0
+          120.808781,24.074755,0
+          120.808447,24.071765,0
+          120.808419,24.069795,0
+          120.808101,24.069294,0
+          120.807457,24.067625,0
+          120.80734,24.066521,0
+          120.807265,24.065446,0
+          120.806688,24.062975,0
+          120.806173,24.060683,0
+          120.806174,24.059957,0
+          120.806126,24.057901,0
+          120.805957,24.057317,0
+          120.805721,24.050678,0
+          120.805725,24.047812,0
+          120.806422,24.04521,0
+          120.806037,24.042003,0
+          120.805985,24.038835,0
+          120.805578,24.036194,0
+          120.805678,24.034855,0
+          120.805773,24.032875,0
+          120.805914,24.031141,0
+          120.805953,24.029151,0
+          120.805997,24.028939,0
+          120.806546,24.024362,0
+          120.806974,24.019525,0
+          120.807162,24.017092,0
+          120.807013,24.013971,0
+          120.806943,24.012547,0
+          120.806014,24.009434,0
+          120.805135,24.006991,0
+          120.803476,24.004452,0
+          120.802259,24.002293,0
+          120.801826,24.001391,0
+          120.801472,24.0007,0
+          120.801285,24.000259,0
+          120.80112,23.999703,0
+          120.801016,23.998726,0
+          120.800854,23.997784,0
+          120.800851,23.997768,0
+          120.80027,23.995851,0
+          120.799355,23.994029,0
+          120.798315,23.99215,0
+          120.7969,23.98981,0
+          120.796026,23.988624,0
+          120.794976,23.987571,0
+          120.792176,23.984527,0
+          120.790417,23.982318,0
+          120.788397,23.979513,0
+          120.788135,23.97921,0
+          120.787419,23.977603,0
+          120.786571,23.975634,0
+          120.786242,23.973367,0
+          120.786018,23.971072,0
+          120.785816,23.968402,0
+          120.785906,23.967281,0
+          120.785991,23.9656,0
+          120.786079,23.964529,0
+          120.786543,23.963013,0
+          120.786676,23.961674,0
+          120.786738,23.959645,0
+          120.787319,23.957379,0
+          120.787734,23.955761,0
+          120.788094,23.954456,0
+          120.787701,23.952666,0
+          120.786666,23.950865,0
+          120.784919,23.947749,0
+          120.783946,23.945177,0
+          120.783915,23.942641,0
+          120.78428,23.941156,0
+          120.785186,23.938646,0
+          120.785208,23.938585,0
+          120.785405,23.937844,0
+          120.785594,23.936497,0
+          120.78592,23.934663,0
+          120.785782,23.93244,0
+          120.785447,23.930954,0
+          120.785481,23.929619,0
+          120.785644,23.928085,0
+          120.785871,23.926636,0
+          120.786334,23.924807,0
+          120.786906,23.923505,0
+          120.787584,23.922478,0
+          120.787765,23.921891,0
+          120.787979,23.920968,0
+          120.789069,23.91711,0
+          120.789389,23.916255,0
+          120.789673,23.91487,0
+          120.789475,23.914129,0
+          120.789257,23.913113,0
+          120.788874,23.909002,0
+          120.788205,23.905834,0
+          120.78748,23.902062,0
+          120.787498,23.900289,0
+          120.787672,23.899392,0
+          120.788317,23.898503,0
+          120.789678,23.897136,0
+          120.791094,23.895785,0
+          120.793047,23.89422,0
+          120.794122,23.893216,0
+          120.796105,23.892117,0
+          120.796954,23.891586,0
+          120.797724,23.890828,0
+          120.798206,23.889635,0
+          120.798891,23.888181,0
+          120.799022,23.88788,0
+          120.799603,23.886928,0
+          120.80025,23.885497,0
+          120.800637,23.884065,0
+          120.800699,23.882335,0
+          120.800631,23.880605,0
+          120.80065,23.880381,0
+          120.8005,23.87977,0
+          120.800304,23.878732,0
+          120.80041,23.87771,0
+          120.800497,23.876111,0
+          120.800746,23.874859,0
+          120.801434,23.87334,0
+          120.801499,23.873163,0
+          120.801723,23.872158,0
+          120.801923,23.871107,0
+          120.802484,23.869012,0
+          120.803011,23.867676,0
+          120.803209,23.866674,0
+          120.803142,23.865368,0
+          120.80357,23.863455,0
+          120.804229,23.860358,0
+          120.804954,23.858537,0
+          120.804987,23.856897,0
+          120.805398,23.853769,0
+          120.805792,23.851097,0
+          120.805792,23.850125,0
+          120.806056,23.849032,0
+          120.806038,23.847514,0
+          120.806582,23.846056,0
+          120.807242,23.845085,0
+          120.808297,23.843933,0
+          120.808957,23.843083,0
+          120.809484,23.841869,0
+          120.81016,23.84111,0
+          120.811842,23.839229,0
+          120.815355,23.836348,0
+          120.817845,23.834529,0
+          120.819923,23.833256,0
+          120.821737,23.831952,0
+          120.823551,23.830709,0
+          120.825232,23.828069,0
+          120.82632,23.826369,0
+          120.826764,23.824395,0
+          120.826831,23.824327,0
+          120.82696,23.82069,0
+          120.826958,23.817349,0
+          120.826891,23.815709,0
+          120.826626,23.813158,0
+          120.826294,23.809756,0
+          120.826126,23.808833,0
+          120.82605,23.808414,0
+          120.824856,23.805745,0
+          120.823386,23.802949,0
+          120.821653,23.800396,0
+          120.819689,23.797661,0
+          120.818236,23.795958,0
+          120.814986,23.793282,0
+          120.811439,23.791151,0
+          120.808849,23.789447,0
+          120.806605,23.787713,0
+          120.806489,23.787683,0
+          120.80413,23.785706,0
+          120.802249,23.784063,0
+          120.801342,23.782513,0
+          120.800434,23.780447,0
+          120.799707,23.778229,0
+          120.799756,23.775951,0
+          120.799573,23.773156,0
+          120.799934,23.767751,0
+          120.799833,23.764197,0
+          120.79975,23.76113,0
+          120.800128,23.758154,0
+          120.800258,23.755603,0
+          120.800389,23.753173,0
+          120.800422,23.751624,0
+          120.801541,23.748285,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>九芎坑斷層
+</name>
+      <description><![CDATA[說明: <br>name: 九芎坑斷層<br>Mw: 規模：6.9<br>RupturePro: 發生機率：23%<br>id: 19]]></description>
+      <styleUrl>#line-F57C00-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>九芎坑斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.9</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：23%</value>
+        </Data>
+        <Data name="id">
+          <value>19</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.507437,23.394488,0
+          120.513426,23.402332,0
+          120.514693,23.410041,0
+          120.51629,23.41572,0
+          120.516888,23.425571,0
+          120.517441,23.431676,0
+          120.519633,23.439897,0
+          120.531304,23.460459,0
+          120.53381,23.47115,0
+          120.53424,23.480571,0
+          120.533614,23.487574,0
+          120.531564,23.493388,0
+          120.552036,23.515319,0
+          120.552482,23.526334,0
+          120.557003,23.538098,0
+          120.55773,23.54837,0
+          120.559022,23.558718,0
+          120.558992,23.567491,0
+          120.560273,23.571821,0
+          120.562504,23.581786,0
+          120.569995,23.608672,0
+          120.57172,23.614964,0
+          120.575186,23.623016,0
+          120.574988,23.635006,0
+          120.57704,23.638521,0
+          120.579073,23.648032,0
+          120.580937,23.660905,0
+          120.59441,23.667813,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>梅山斷層
+</name>
+      <description><![CDATA[說明: <br>name: 梅山斷層<br>Mw: 規模：6.6<br>RupturePro: 發生機率：10%<br>id: 20]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>梅山斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：10%</value>
+        </Data>
+        <Data name="id">
+          <value>20</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.426514,23.550746,0
+          120.428697,23.551907,0
+          120.435723,23.553662,0
+          120.448676,23.558319,0
+          120.480678,23.568659,0
+          120.517526,23.58016,0
+          120.542824,23.588162,0
+          120.550843,23.590283,0
+          120.563153,23.594464,0
+          120.577982,23.599533,0
+          120.595836,23.609153,0
+          120.615611,23.620153,0
+          120.628309,23.627485,0
+          120.632882,23.632683,0
+          120.637457,23.637112,0
+          120.639332,23.637885,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>嘉義前緣構造
+</name>
+      <description><![CDATA[說明: <br>name: 嘉義前緣構造<br>Mw: 規模：7.3<br>RupturePro: 發生機率：16%<br>id: 21]]></description>
+      <styleUrl>#line-FBC02D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>嘉義前緣構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.3</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：16%</value>
+        </Data>
+        <Data name="id">
+          <value>21</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.184736,23.14769,0
+          120.184829,23.182565,0
+          120.184922,23.21744,0
+          120.191431,23.298612,0
+          120.194033,23.321546,0
+          120.198704,23.355179,0
+          120.203377,23.38881,0
+          120.20749,23.414424,0
+          120.211605,23.440038,0
+          120.217846,23.467208,0
+          120.224089,23.494379,0
+          120.231876,23.518744,0
+          120.239666,23.543109,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>木屐寮-六甲斷層
+</name>
+      <description><![CDATA[說明: <br>name: 木屐寮-六甲斷層<br>Mw: 規模：6.8<br>RupturePro: 發生機率：32%<br>id: 22]]></description>
+      <styleUrl>#line-C2185B-3325</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>木屐寮-六甲斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.8</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：32%</value>
+        </Data>
+        <Data name="id">
+          <value>22</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.372414,23.189917,0
+          120.365973,23.20086,0
+          120.365874,23.221742,0
+          120.369928,23.23336,0
+          120.377207,23.245837,0
+          120.388938,23.269295,0
+          120.397532,23.287469,0
+          120.402526,23.294238,0
+          120.4089,23.298903,0
+          120.43283,23.310382,0
+          120.442385,23.325448,0
+          120.449813,23.344423,0
+          120.457747,23.362937,0
+          120.460125,23.367848,0
+          120.468169,23.382115,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>中洲構造
+</name>
+      <description><![CDATA[說明: <br>name: 中洲構造<br>Mw: 規模：6.9<br>RupturePro: 發生機率：37%<br>id: 23]]></description>
+      <styleUrl>#line-C2185B-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>中洲構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.9</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：37%</value>
+        </Data>
+        <Data name="id">
+          <value>23</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.317898,22.957602,0
+          120.313134,22.97282,0
+          120.311367,22.984252,0
+          120.309664,22.992457,0
+          120.310349,23.001978,0
+          120.316205,23.022351,0
+          120.327368,23.035805,0
+          120.330868,23.047702,0
+          120.332134,23.056834,0
+          120.334886,23.072176,0
+          120.335897,23.073982,0
+          120.339292,23.080906,0
+          120.360865,23.089566,0
+          120.363882,23.102671,0
+          120.364802,23.109851,0
+          120.363805,23.116944,0
+          120.357266,23.125302,0
+          120.353287,23.13462,0
+          120.351539,23.142365,0
+          120.351152,23.151539,0
+          120.348728,23.157541,0
+          120.343917,23.161792,0
+          120.334274,23.174092,0
+          120.326243,23.171843,0
+          120.31919,23.17909,0
+          120.319674,23.184946,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>新化斷層
+</name>
+      <description><![CDATA[說明: <br>name: 新化斷層<br>Mw: 規模：6.3<br>RupturePro: 發生機率：<1%<br>id: 24]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>新化斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.3</value>
+        </Data>
+        <Data name="RupturePro">
+          <value><![CDATA[發生機率：<1%]]></value>
+        </Data>
+        <Data name="id">
+          <value>24</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.237107,23.041196,0
+          120.251824,23.046646,0
+          120.259285,23.050332,0
+          120.270636,23.054438,0
+          120.285599,23.061116,0
+          120.30118,23.068831,0
+          120.31439,23.075098,0
+          120.327602,23.081363,0
+          120.336494,23.084933,0
+          120.344516,23.085912,0
+          120.352441,23.086185,0
+          120.363472,23.089095,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>後甲里斷層
+</name>
+      <description><![CDATA[說明: <br>name: 後甲里斷層<br>Mw: 規模：6.0<br>RupturePro: 發生機率：44%<br>id: 25]]></description>
+      <styleUrl>#line-880E4F-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>後甲里斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：44%</value>
+        </Data>
+        <Data name="id">
+          <value>25</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.22681,22.934045,0
+          120.234502,22.942444,0
+          120.237999,22.951421,0
+          120.23924,22.960088,0
+          120.244652,22.972956,0
+          120.247144,22.988796,0
+          120.247083,22.999846,0
+          120.249917,23.012403,0
+          120.250193,23.020767,0
+          120.25016,23.02674,0
+          120.250768,23.033612,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>旗山斷層
+</name>
+      <description><![CDATA[說明: <br>name: 旗山斷層<br>Mw: 規模：6.6<br>RupturePro: 發生機率：6%<br>id: 26]]></description>
+      <styleUrl>#line-FFFF8D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>旗山斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：6%</value>
+        </Data>
+        <Data name="id">
+          <value>26</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.360374,22.773833,0
+          120.366312,22.776819,0
+          120.369741,22.782755,0
+          120.378286,22.788221,0
+          120.387254,22.792941,0
+          120.390849,22.794844,0
+          120.399825,22.797387,0
+          120.414285,22.814598,0
+          120.423406,22.823957,0
+          120.428562,22.829256,0
+          120.433973,22.835756,0
+          120.442617,22.843468,0
+          120.45036,22.850095,0
+          120.45436,22.85383,0
+          120.464173,22.861064,0
+          120.470905,22.861566,0
+          120.473968,22.873338,0
+          120.477563,22.881751,0
+          120.479725,22.892199,0
+          120.480616,22.896162,0
+          120.49229,22.899866,0
+          120.501793,22.904937,0
+          120.51032,22.911444,0
+          120.520694,22.917777,0
+          120.525251,22.920671,0
+          120.533194,22.928075,0
+          120.540751,22.934758,0
+          120.549477,22.941084,0
+          120.558408,22.944169,0
+          120.571418,22.948345,0
+          120.583463,22.950718,0
+          120.59133,22.952628,0
+          120.599197,22.954539,0
+          120.60639,22.954647,0
+          120.613582,22.954754,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>小崗山斷層
+</name>
+      <description><![CDATA[說明: <br>name: 小崗山斷層<br>Mw: 規模：6.2<br>RupturePro: 發生機率：21%<br>id: 27]]></description>
+      <styleUrl>#line-F57C00-2744</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>小崗山斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.2</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：21%</value>
+        </Data>
+        <Data name="id">
+          <value>27</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.327718,22.810445,0
+          120.327236,22.817749,0
+          120.327794,22.82542,0
+          120.328154,22.830899,0
+          120.328515,22.836377,0
+          120.33103,22.844502,0
+          120.33297,22.847029,0
+          120.336555,22.8486,0
+          120.337496,22.854615,0
+          120.338238,22.860863,0
+          120.339148,22.863511,0
+          120.341309,22.867754,0
+          120.3434,22.869402,0
+          120.350594,22.87328,0
+          120.361217,22.876259,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>高屏溪構造
+</name>
+      <description><![CDATA[說明: <br>name: 高屏溪構造<br>Mw: 規模：6.6<br>RupturePro: 發生機率：3%<br>id: 28]]></description>
+      <styleUrl>#line-FFFF8D-2744</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>高屏溪構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.6</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：3%</value>
+        </Data>
+        <Data name="id">
+          <value>28</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.46885,22.857239,0
+          120.467836,22.851475,0
+          120.464222,22.848583,0
+          120.459324,22.842805,0
+          120.459617,22.834165,0
+          120.46011,22.828178,0
+          120.460878,22.819865,0
+          120.460728,22.815207,0
+          120.459733,22.804882,0
+          120.459236,22.7996,0
+          120.458444,22.796334,0
+          120.45512,22.784644,0
+          120.45041,22.771597,0
+          120.448516,22.765913,0
+          120.448445,22.754917,0
+          120.447508,22.746453,0
+          120.445978,22.740867,0
+          120.444838,22.734742,0
+          120.4416,22.726265,0
+          120.439705,22.721393,0
+          120.43587,22.713927,0
+          120.43452,22.709331,0
+          120.433109,22.700069,0
+          120.431217,22.688488,0
+          120.431495,22.683928,0
+          120.430269,22.678626,0
+          120.429043,22.673323,0
+          120.426906,22.66759,0
+          120.427698,22.663752,0
+          120.426698,22.655587,0
+          120.424655,22.649339,0
+          120.423639,22.644895,0
+          120.422623,22.640451,0
+          120.422765,22.630335,0
+          120.423556,22.62083,0
+          120.422362,22.611291,0
+          120.42175,22.601802,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>潮州斷層
+</name>
+      <description><![CDATA[說明: <br>name: 潮州斷層<br>Mw: 規模：7.0<br>RupturePro: 發生機率：6%<br>id: 29]]></description>
+      <styleUrl>#line-FFFF8D-2744</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>潮州斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.0</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：6%</value>
+        </Data>
+        <Data name="id">
+          <value>29</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.660003,23.006505,0
+          120.655277,22.994615,0
+          120.654927,22.979132,0
+          120.651073,22.965802,0
+          120.650367,22.938077,0
+          120.648685,22.91179,0
+          120.647939,22.899547,0
+          120.645258,22.879883,0
+          120.644356,22.866563,0
+          120.638552,22.857809,0
+          120.627475,22.846949,0
+          120.624926,22.817418,0
+          120.62088,22.80102,0
+          120.621053,22.791405,0
+          120.626353,22.776248,0
+          120.625678,22.755796,0
+          120.618115,22.744672,0
+          120.616386,22.736406,0
+          120.609412,22.672733,0
+          120.602032,22.650774,0
+          120.60032,22.637497,0
+          120.60132,22.624272,0
+          120.624257,22.582591,0
+          120.625718,22.580691,0
+          120.626088,22.575088,0
+          120.623819,22.554019,0
+          120.62231,22.538533,0
+          120.622352,22.523051,0
+          120.620661,22.503783,0
+          120.619667,22.496416,0
+          120.614977,22.487942,0
+          120.610038,22.471505,0
+          120.610071,22.459713,0
+          120.61193,22.438215,0
+          120.611741,22.43679,0
+          120.611032,22.413204,0
+          120.612432,22.397184,0
+          120.615001,22.378107,0
+          120.621268,22.351296,0
+          120.623125,22.346688,0
+          120.624306,22.343757,0
+          120.630036,22.329532,0
+          120.63821,22.311367,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>恆春斷層
+</name>
+      <description><![CDATA[說明: <br>name: 恆春斷層<br>Mw: 規模：6.8<br>RupturePro: 發生機率：24%<br>id: 30]]></description>
+      <styleUrl>#line-F57C00-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>恆春斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.8</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：24%</value>
+        </Data>
+        <Data name="id">
+          <value>30</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.718332,22.092147,0
+          120.723135,22.081083,0
+          120.727212,22.070827,0
+          120.734925,22.052205,0
+          120.738996,22.043705,0
+          120.743724,22.032234,0
+          120.748597,22.020764,0
+          120.751515,22.008481,0
+          120.756036,21.989448,0
+          120.758666,21.975408,0
+          120.761584,21.962449,0
+          120.783148,21.940879,0
+          120.791616,21.930495,0
+          120.831644,21.869245,0
+          120.854711,21.843817,0
+          120.882777,21.799151,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>恆春離岸構造
+</name>
+      <description><![CDATA[說明: <br>name: 恆春離岸構造<br>Mw: 規模：6.2<br>RupturePro: 發生機率：23%<br>id: 31]]></description>
+      <styleUrl>#line-F57C00-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>恆春離岸構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.2</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：23%</value>
+        </Data>
+        <Data name="id">
+          <value>31</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          120.683841,22.040592,0
+          120.682825,22.030642,0
+          120.68285,22.019705,0
+          120.686853,22.010124,0
+          120.690564,22.001625,0
+          120.693325,21.997174,0
+          120.701018,21.988546,0
+          120.705662,21.983018,0
+          120.709734,21.974519,0
+          120.710915,21.963043,0
+          120.710257,21.955198,0
+          120.710019,21.941031,0
+          120.710538,21.93455,0
+          120.712438,21.925844,0
+          120.714336,21.917137,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>米崙斷層
+</name>
+      <description><![CDATA[說明: <br>name: 米崙斷層<br>Mw: 規模：6.4<br>RupturePro: 發生機率：42%<br>id: 32]]></description>
+      <styleUrl>#line-880E4F-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>米崙斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.4</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：42%</value>
+        </Data>
+        <Data name="id">
+          <value>32</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.608293,23.969539,0
+          121.609373,23.983271,0
+          121.611228,23.990652,0
+          121.615076,23.999598,0
+          121.618455,24.01042,0
+          121.62335,24.018485,0
+          121.631584,24.026398,0
+          121.632345,24.027465,0
+          121.67964,24.060596,0
+          121.69231,24.071796,0
+          121.74121,24.107911,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>花東縱谷斷層
+</name>
+      <description><![CDATA[說明: <br>name: 花東縱谷斷層<br>Mw: 規模：7.5<br>RupturePro: 發生機率：17%<br>id: 33]]></description>
+      <styleUrl>#line-FBC02D-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>花東縱谷斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.5</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：17%</value>
+        </Data>
+        <Data name="id">
+          <value>33</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.608642,23.936025,0
+          121.597611,23.917433,0
+          121.589521,23.906033,0
+          121.581894,23.896024,0
+          121.575037,23.888243,0
+          121.563015,23.87825,0
+          121.554803,23.872867,0
+          121.549736,23.866545,0
+          121.540425,23.850298,0
+          121.539922,23.842375,0
+          121.534801,23.831462,0
+          121.532152,23.817273,0
+          121.526398,23.802307,0
+          121.522904,23.787448,0
+          121.509712,23.771692,0
+          121.500036,23.761621,0
+          121.49181,23.745809,0
+          121.489264,23.734844,0
+          121.491401,23.720141,0
+          121.490095,23.705881,0
+          121.482684,23.690487,0
+          121.471831,23.67882,0
+          121.460107,23.654991,0
+          121.447622,23.635402,0
+          121.432575,23.62234,0
+          121.418538,23.601246,0
+          121.40893,23.595316,0
+          121.40141,23.590149,0
+          121.401919,23.571397,0
+          121.395054,23.556161,0
+          121.391742,23.547914,0
+          121.388927,23.543986,0
+          121.388654,23.532882,0
+          121.388957,23.519623,0
+          121.392176,23.508602,0
+          121.397284,23.500741,0
+          121.403033,23.485606,0
+          121.403313,23.473914,0
+          121.402597,23.461368,0
+          121.402478,23.453775,0
+          121.391525,23.45118,0
+          121.388242,23.448209,0
+          121.381151,23.43636,0
+          121.373444,23.424927,0
+          121.368515,23.416389,0
+          121.359606,23.408223,0
+          121.360089,23.404237,0
+          121.357283,23.395642,0
+          121.354358,23.391806,0
+          121.35211,23.378075,0
+          121.347862,23.365116,0
+          121.345673,23.356044,0
+          121.339908,23.344493,0
+          121.33743,23.336285,0
+          121.336923,23.321157,0
+          121.332795,23.308197,0
+          121.32594,23.296351,0
+          121.321254,23.290951,0
+          121.316924,23.28251,0
+          121.308919,23.273529,0
+          121.300303,23.265441,0
+          121.296421,23.25556,0
+          121.292996,23.247218,0
+          121.283415,23.237526,0
+          121.277276,23.223795,0
+          121.273161,23.213319,0
+          121.269742,23.199276,0
+          121.261785,23.187607,0
+          121.252053,23.180177,0
+          121.247241,23.16981,0
+          121.238222,23.159233,0
+          121.237791,23.147274,0
+          121.233871,23.129841,0
+          121.229799,23.120484,0
+          121.224172,23.109541,0
+          121.217608,23.096309,0
+          121.211366,23.089257,0
+          121.214513,23.087175,0
+          121.215148,23.076399,0
+          121.209348,23.065644,0
+          121.205943,23.058716,0
+          121.200783,23.053238,0
+          121.192984,23.044914,0
+          121.186761,23.040798,0
+          121.182275,23.030511,0
+          121.176237,23.023995,0
+          121.173433,23.019852,0
+          121.170044,23.009207,0
+          121.170587,22.997048,0
+          121.173048,22.981707,0
+          121.17074,22.966551,0
+          121.165918,22.953875,0
+          121.162384,22.947923,0
+          121.159083,22.936269,0
+          121.156996,22.927926,0
+          121.152562,22.9185,0
+          121.14993,22.908133,0
+          121.146733,22.900798,0
+          121.143353,22.887576,0
+          121.145279,22.875417,0
+          121.141656,22.863894,0
+          121.136862,22.84698,0
+          121.13247,22.830112,0
+          121.132987,22.82056,0
+          121.133504,22.811009,0
+          121.134854,22.806824,0
+          121.136952,22.799572,0
+          121.1386,22.793575,0
+          121.141001,22.787995,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>中央山脈構造
+</name>
+      <description><![CDATA[說明: <br>name: 中央山脈構造<br>Mw: 規模：7.4<br>RupturePro: 發生機率：17%<br>id: 34]]></description>
+      <styleUrl>#line-FBC02D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>中央山脈構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：7.4</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：17%</value>
+        </Data>
+        <Data name="id">
+          <value>34</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.40122,23.490379,0
+          121.396933,23.487708,0
+          121.392521,23.484959,0
+          121.390341,23.483679,0
+          121.385049,23.476175,0
+          121.383271,23.472604,0
+          121.378805,23.468193,0
+          121.374337,23.464573,0
+          121.370014,23.461327,0
+          121.368168,23.457458,0
+          121.366193,23.456397,0
+          121.363736,23.452921,0
+          121.363052,23.45019,0
+          121.361094,23.443688,0
+          121.356154,23.437057,0
+          121.354032,23.434171,0
+          121.352523,23.429062,0
+          121.347206,23.429013,0
+          121.344975,23.425048,0
+          121.342744,23.421082,0
+          121.341344,23.416731,0
+          121.337781,23.414017,0
+          121.334276,23.408135,0
+          121.330772,23.402252,0
+          121.327287,23.398842,0
+          121.323802,23.395431,0
+          121.325223,23.389081,0
+          121.326407,23.382685,0
+          121.325376,23.378428,0
+          121.324345,23.374171,0
+          121.32334,23.364475,0
+          121.322335,23.354779,0
+          121.320516,23.35161,0
+          121.314754,23.347245,0
+          121.311994,23.341292,0
+          121.309234,23.335339,0
+          121.304055,23.327054,0
+          121.300307,23.317318,0
+          121.29656,23.307583,0
+          121.292588,23.300603,0
+          121.288616,23.293623,0
+          121.287218,23.288375,0
+          121.28582,23.283126,0
+          121.285848,23.27731,0
+          121.284173,23.271559,0
+          121.282499,23.265808,0
+          121.279669,23.2601,0
+          121.276839,23.254392,0
+          121.273234,23.246686,0
+          121.270987,23.238691,0
+          121.267935,23.23186,0
+          121.265805,23.226553,0
+          121.263675,23.221245,0
+          121.260142,23.217954,0
+          121.254867,23.214591,0
+          121.252715,23.208831,0
+          121.25333,23.204026,0
+          121.252281,23.199033,0
+          121.248114,23.193468,0
+          121.244049,23.186942,0
+          121.239985,23.180416,0
+          121.233524,23.169859,0
+          121.227065,23.159301,0
+          121.224768,23.152772,0
+          121.218215,23.147786,0
+          121.211663,23.1428,0
+          121.209681,23.142753,0
+          121.202829,23.125086,0
+          121.195979,23.107419,0
+          121.192499,23.094358,0
+          121.189019,23.081298,0
+          121.175372,23.045108,0
+          121.160899,22.980781,0
+          121.145486,22.926615,0
+          121.133425,22.89646,0
+          121.129258,22.875713,0
+          121.123209,22.83633,0
+          121.122372,22.827877,0
+          121.119877,22.818849,0
+          121.119657,22.804439,0
+          121.117572,22.79003,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>鹿野斷層
+</name>
+      <description><![CDATA[說明: <br>name: 鹿野斷層<br>Mw: 規模：6.2<br>RupturePro: 發生機率：37%<br>id: 35]]></description>
+      <styleUrl>#line-C2185B-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>鹿野斷層</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.2</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：37%</value>
+        </Data>
+        <Data name="id">
+          <value>35</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.134892,22.94481,0
+          121.131016,22.941868,0
+          121.127141,22.938925,0
+          121.123766,22.933684,0
+          121.120482,22.929902,0
+          121.118246,22.925296,0
+          121.114648,22.917451,0
+          121.113285,22.914211,0
+          121.111858,22.907962,0
+          121.112099,22.900552,0
+          121.112431,22.892684,0
+          121.11047,22.888668,0
+          121.109179,22.88325,0
+          121.106845,22.880371,0
+          121.100624,22.875514,0
+          121.10033,22.871644,0
+          121.100036,22.867773,0
+          121.0977,22.862554,0
+          121.095561,22.858415,0
+          121.094392,22.854275,0
+          121.094647,22.849518,0
+          121.096133,22.843832,0
+          121.0971,22.838251,0
+          121.094717,22.828539,0
+          121.093114,22.822068,0
+          121.091529,22.813511,0
+          121.092908,22.806969,0
+          121.096868,22.800904,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>太麻里海岸線構造</name>
+      <description><![CDATA[說明: <br>name: 太麻里海岸線構造<br>Mw: 規模：6.7<br>RupturePro: 發生機率：28%<br>id: 36]]></description>
+      <styleUrl>#line-F57C00-2938</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>太麻里海岸線構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.7</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：28%</value>
+        </Data>
+        <Data name="id">
+          <value>36</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.0403,22.699012,0
+          121.039076,22.67787,0
+          121.028726,22.661789,0
+          121.025445,22.658138,0
+          121.014668,22.62978,0
+          121.010876,22.620024,0
+          120.993124,22.589761,0
+          120.984014,22.574097,0
+          120.977813,22.556993,0
+          120.969289,22.532147,0
+          120.966167,22.52238,0
+          120.953607,22.486055,0
+          120.946254,22.461568,0
+          120.940354,22.443112,0
+          120.931164,22.422764,0
+          120.923622,22.404847,0
+          120.917241,22.390621,0
+          120.91202,22.379456,0
+          120.908739,22.365051,0
+          120.906486,22.359278,0
+          120.901123,22.348473,0
+          120.897209,22.341179,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>北宜蘭構造</name>
+      <description><![CDATA[說明: <br>name: 北宜蘭構造<br>Mw: 規模：6.8<br>RupturePro: 發生機率：15%<br>id: 37]]></description>
+      <styleUrl>#line-FBC02D-3131</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>北宜蘭構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.8</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：15%</value>
+        </Data>
+        <Data name="id">
+          <value>37</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.883609,24.917532,0
+          121.867094,24.904126,0
+          121.848554,24.886298,0
+          121.83544,24.87465,0
+          121.813768,24.867155,0
+          121.799066,24.861984,0
+          121.778922,24.844726,0
+          121.762452,24.827445,0
+          121.74535,24.821471,0
+          121.720288,24.806171,0
+          121.671472,24.74491,0
+          121.651787,24.712522,0
+          121.623426,24.69482,0
+          121.596443,24.673233,0
+          121.577481,24.669023,0
+          121.56743,24.659122,0
+          121.551326,24.643158,0
+          121.520525,24.617561,0
+          121.505569,24.604588,0
+          121.491131,24.603538,0
+          121.487206,24.582215,0
+          121.469996,24.565783,0
+          121.46181,24.556468,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>南宜蘭構造</name>
+      <description><![CDATA[說明: <br>name: 南宜蘭構造<br>Mw: 規模：6.4<br>RupturePro: 發生機率：35%<br>id: 38]]></description>
+      <styleUrl>#line-C2185B-2744</styleUrl>
+      <ExtendedData>
+        <Data name="說明">
+          <value/>
+        </Data>
+        <Data name="name">
+          <value>南宜蘭構造</value>
+        </Data>
+        <Data name="Mw">
+          <value>規模：6.4</value>
+        </Data>
+        <Data name="RupturePro">
+          <value>發生機率：35%</value>
+        </Data>
+        <Data name="id">
+          <value>38</value>
+        </Data>
+      </ExtendedData>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          121.687582,24.666934,0
+          121.700084,24.666724,0
+          121.719376,24.658864,0
+          121.742644,24.647174,0
+          121.748303,24.645927,0
+          121.765449,24.642337,0
+          121.779037,24.629624,0
+          121.797497,24.623586,0
+          121.804577,24.620746,0
+          121.812867,24.614151,0
+          121.825859,24.613471,0
+          121.835999,24.609759,0
+          121.84982,24.608463,0
+          121.87381,24.608021,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>
