@@ -135,8 +135,8 @@ var map = new ol.Map({
     }),
     new app.Button({
       bClassName: 'app-button2',
-      bText: '報',
-      bHref: 'https://www.twreporter.org/a/dangerous-fault-architect'
+      bText: '平',
+      bHref: 'https://www.facebook.com/eventshorizonspace/posts/2522148154677843'
     }),
     new app.Button({
       bClassName: 'app-button3',
