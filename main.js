@@ -1,28 +1,5 @@
 window.app = {};
-var app = window.app;
-
-app.Button = function(opt_options) {
-  var options = opt_options || {};
-  var button = document.createElement('button');
-  button.innerHTML = options.bText;
-  var this_ = this;
-  var handleButtonClick = function() {
-    window.open(options.bHref);
-  };
-
-  button.addEventListener('click', handleButtonClick, false);
-  button.addEventListener('touchstart', handleButtonClick, false);
-
-  var element = document.createElement('div');
-  element.className = options.bClassName + ' ol-unselectable ol-control';
-  element.appendChild(button);
-
-  ol.control.Control.call(this, {
-    element: element,
-    target: options.target
-  });
-}
-ol.inherits(app.Button, ol.control.Control);
+var sidebar = new ol.control.Sidebar({ element: 'sidebar', position: 'right' });
 
 var projection = ol.proj.get('EPSG:3857');
 var projectionExtent = projection.getExtent();
@@ -126,25 +103,9 @@ var map = new ol.Map({
   layers: [baseLayer, faults],
   overlays: [popup],
   target: 'map',
-  view: appView,
-  controls: ol.control.defaults().extend([
-    new app.Button({
-      bClassName: 'app-button1',
-      bText: '原',
-      bHref: 'https://github.com/kiang/faults'
-    }),
-    new app.Button({
-      bClassName: 'app-button2',
-      bText: '平',
-      bHref: 'https://www.facebook.com/eventshorizonspace/posts/2522148154677843'
-    }),
-    new app.Button({
-      bClassName: 'app-button3',
-      bText: '江',
-      bHref: 'https://www.facebook.com/k.olc.tw/'
-    })
-  ])
+  view: appView
 });
+map.addControl(sidebar);
 
 var geolocation = new ol.Geolocation({
   projection: appView.getProjection()
