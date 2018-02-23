@@ -100,7 +100,7 @@ var appView = new ol.View({
 });
 
 var map = new ol.Map({
-  layers: [baseLayer, faults],
+  layers: [new ol.layer.Tile({source: new ol.source.OSM()}), faults],
   overlays: [popup],
   target: 'map',
   view: appView
